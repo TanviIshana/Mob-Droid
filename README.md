@@ -29,5 +29,8 @@ $ python2 mob-droid-termux.py
 
 Now selct your options.
 $ select: android
-$
+$ after exploit successfully
+$ shell command enter
+$ search presisitance.sh
+$ enter presistance.sh
 
