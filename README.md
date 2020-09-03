@@ -19,6 +19,7 @@ $ git clone https://github.com/kinghacker0/mob-droid
 $ cd Mob-Droid
 
 For linux
+$ chmod +x mob-droid.py
 
 $ python mob-droid.py
 
@@ -27,5 +28,6 @@ For Termux
 $ python2 mob-droid-termux.py
 
 Now selct your options.
+$ select: android
+$
 
-<p>Watch Video Tutorial :- https://www.youtube.com/watch?v=jgRIh_NBfC8</p>
